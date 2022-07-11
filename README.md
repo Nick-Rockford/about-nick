@@ -1,2 +1,2 @@
 # about-nick
-This is an about me page about Nick Rockford!
+This is an "about me page" about Nick Rockford!
